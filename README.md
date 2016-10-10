@@ -1,1 +1,1 @@
-Thi is malymay's first git project!
+This is malymay's first git project!
